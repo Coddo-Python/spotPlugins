@@ -1,0 +1,1 @@
+@echo off | py spotPlugins/cli.py %*
